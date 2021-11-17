@@ -16,3 +16,11 @@ Beyond this feel free to improve or extend the app as you see fit
 
 1. Run `docker-compose up`
 2. That's it. The app will be running on port `3000` of your docker machine. 
+
+## Additions I would do
+
+1. Use UTC to find time time ago
+2. Added correct styling to hastags
+3. Add like button functionality
+4. Add tests
+5. Format like count with commas
